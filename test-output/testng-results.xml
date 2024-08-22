@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[createConWithSupportSEDate is executed]]>
+    </line>
+    <line>
+      <![CDATA[Expected Start date is displayed ]]>
+    </line>
+    <line>
+      <![CDATA[Expected end date is displayed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-08-08T02:11:25 IST" name="Default suite" finished-at="2024-08-08T02:12:54 IST" duration-ms="89241">
+    <groups>
+    </groups>
+    <test started-at="2024-08-08T02:11:25 IST" name="Default test" finished-at="2024-08-08T02:12:54 IST" duration-ms="89241">
+      <class name="com.crm.VTiger.ContactTestcase">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.crm.VTiger.ContactTestcase@3c77d488]" started-at="2024-08-08T02:11:25 IST" name="preCondition" finished-at="2024-08-08T02:11:54 IST" duration-ms="28794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.crm.VTiger.ContactTestcase@3c77d488]" started-at="2024-08-08T02:11:54 IST" name="login" finished-at="2024-08-08T02:12:07 IST" duration-ms="12668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="createConWithSupportSEDate()[pri:0, instance:com.crm.VTiger.ContactTestcase@3c77d488]" started-at="2024-08-08T02:12:07 IST" name="createConWithSupportSEDate" finished-at="2024-08-08T02:12:50 IST" duration-ms="43852" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[createConWithSupportSEDate is executed]]>
+            </line>
+            <line>
+              <![CDATA[Expected Start date is displayed ]]>
+            </line>
+            <line>
+              <![CDATA[Expected end date is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createConWithSupportSEDate -->
+        <test-method is-config="true" signature="signOut()[pri:0, instance:com.crm.VTiger.ContactTestcase@3c77d488]" started-at="2024-08-08T02:12:50 IST" name="signOut" finished-at="2024-08-08T02:12:54 IST" duration-ms="3197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.crm.VTiger.ContactTestcase@3c77d488]" started-at="2024-08-08T02:12:54 IST" name="postCondition" finished-at="2024-08-08T02:12:54 IST" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.crm.VTiger.ContactTestcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
